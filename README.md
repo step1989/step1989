@@ -1,2 +1,1 @@
-- 👋 Hi, I’m Stepan Ryabukhin
-- 📫 How to reach me: ryabuhin.stepan@yandex.ru
+
